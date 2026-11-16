@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-09T14:41:57.620Z",
-  "run_id": "2026-11-09T14-41-55-032Z",
-  "snapshot_file": "banks-headquarters-2026-11-09T14-41-55-032Z.json",
+  "generated_at": "2026-11-16T14:17:47.198Z",
+  "run_id": "2026-11-16T14-17-45-606Z",
+  "snapshot_file": "banks-headquarters-2026-11-16T14-17-45-606Z.json",
   "totals": {
     "banks": 470,
     "with_address": 443,
